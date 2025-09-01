@@ -1,4 +1,4 @@
-# sparkjava-war-example !@#$%^&* RadheyRadhey
+# sparkjava-war-example !@#$%^&* 
 Build war with maven and sparkjava framework
 
 Steps:
