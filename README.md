@@ -2,6 +2,8 @@
 this is a new line in the code for testing prospective.
 Build war with maven and sparkjava framework
 
+Testing of MavenJobX and MavenJobY
+
 Steps:
 
 1. Download a fresh [Tomcat 8 distribution](https://tomcat.apache.org/download-80.cgi)
